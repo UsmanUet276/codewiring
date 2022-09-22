@@ -1,0 +1,18 @@
+.abc{
+    background-color: #fff !important;
+    padding: 5px 8px 5px 24px !important;
+    
+}
+.abc:hover{
+    
+    border-top-right-radius: 30px !important;
+    border-bottom-right-radius: 30px !important;
+    background-color: #D7EFFE !important;
+}
+.link{
+    margin-right: 0px;
+}
+.width-nav
+{
+    width: 200px !important;
+}
